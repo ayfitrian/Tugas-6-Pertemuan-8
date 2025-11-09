@@ -3,7 +3,9 @@
 Proyek ini mendemonstrasikan pembuatan form input data di Flutter dan proses pengiriman (passing) data dari satu halaman (form) ke halaman lainnya (tampilan hasil).
 
 ## 🗂️ Dokumen File
-<img width="1916" height="1007" alt="Screenshot 2025-11-09 233444" src="https://github.com/user-attachments/assets/2a2d2c9a-5087-4b40-9a97-2fdfa0aac580" />
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/0694e36d-59d1-4e10-aa74-15acf47838b3" />
+<img width="1917" height="1009" alt="image" src="https://github.com/user-attachments/assets/1a03be26-6d94-4b36-bdb1-309f4e72154c" />
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/9d4cce8f-3b36-4a63-b89e-c86382691922" />
 
 ## 🗂️ Struktur File
 
